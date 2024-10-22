@@ -1,2 +1,3 @@
 # langgraph_project
-AI Agent  
+
+It is a lightweight, multi-agent system powered by chat models to revolutionize the research process. Users can customize input sources, and the system generates AI analysts focused on specific sub-topics, refined through human-in-the-loop feedback. Leveraging multi-turn conversations and map-reduce techniques, analysts conduct parallel interviews with expert AIs, capturing insights through contextual sub-graphs. The findings are synthesized into dynamic, customizable reports, enabling faster, smarter, and more collaborative research workflows. This is research, reimagined with AI-driven precision and flexibility. 🚀 #AI #ResearchAutomation #MultiAgentSystems #LLM #Innovation #HumanInTheLoop #STORM
